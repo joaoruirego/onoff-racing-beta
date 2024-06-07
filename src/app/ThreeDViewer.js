@@ -293,7 +293,7 @@ const ThreeDViewer = () => {
     <>
       {isLoading && (
         <div className={styles.loadingContainer}>
-          <p>A carregar...</p>
+          {/* <p>A carregar...</p> */}
         </div>
       )}
       <div ref={containerRef}> </div>
