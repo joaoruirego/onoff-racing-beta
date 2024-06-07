@@ -4,7 +4,7 @@ import { LanguageProvider } from "@/context/ContentContext";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Allkits Simulator",
+  title: "OnOff Racing",
   description: "Powered by STEP",
 };
 
